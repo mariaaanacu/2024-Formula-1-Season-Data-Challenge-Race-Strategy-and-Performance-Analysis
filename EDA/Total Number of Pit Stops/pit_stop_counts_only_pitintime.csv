@@ -1,0 +1,291 @@
+Driver,Team,EventName,TotalPitStops
+ALB,Williams,Australian Grand Prix,2
+ALB,Williams,Austrian Grand Prix,2
+ALB,Williams,Bahrain Grand Prix,2
+ALB,Williams,Belgian Grand Prix,2
+ALB,Williams,British Grand Prix,2
+ALB,Williams,Canadian Grand Prix,2
+ALB,Williams,Chinese Grand Prix,2
+ALB,Williams,Dutch Grand Prix,2
+ALB,Williams,Emilia Romagna Grand Prix,5
+ALB,Williams,Hungarian Grand Prix,2
+ALB,Williams,Miami Grand Prix,2
+ALB,Williams,Monaco Grand Prix,1
+ALB,Williams,Saudi Arabian Grand Prix,1
+ALB,Williams,Spanish Grand Prix,2
+ALO,Aston Martin,Australian Grand Prix,2
+ALO,Aston Martin,Austrian Grand Prix,3
+ALO,Aston Martin,Bahrain Grand Prix,2
+ALO,Aston Martin,Belgian Grand Prix,1
+ALO,Aston Martin,British Grand Prix,2
+ALO,Aston Martin,Canadian Grand Prix,2
+ALO,Aston Martin,Chinese Grand Prix,3
+ALO,Aston Martin,Dutch Grand Prix,1
+ALO,Aston Martin,Emilia Romagna Grand Prix,3
+ALO,Aston Martin,Hungarian Grand Prix,2
+ALO,Aston Martin,Japanese Grand Prix,3
+ALO,Aston Martin,Miami Grand Prix,1
+ALO,Aston Martin,Monaco Grand Prix,1
+ALO,Aston Martin,Saudi Arabian Grand Prix,1
+ALO,Aston Martin,Spanish Grand Prix,2
+BEA,Ferrari,Saudi Arabian Grand Prix,1
+BOT,Kick Sauber,Australian Grand Prix,2
+BOT,Kick Sauber,Austrian Grand Prix,2
+BOT,Kick Sauber,Bahrain Grand Prix,2
+BOT,Kick Sauber,Belgian Grand Prix,2
+BOT,Kick Sauber,British Grand Prix,2
+BOT,Kick Sauber,Canadian Grand Prix,1
+BOT,Kick Sauber,Chinese Grand Prix,1
+BOT,Kick Sauber,Dutch Grand Prix,2
+BOT,Kick Sauber,Emilia Romagna Grand Prix,1
+BOT,Kick Sauber,Hungarian Grand Prix,2
+BOT,Kick Sauber,Japanese Grand Prix,3
+BOT,Kick Sauber,Miami Grand Prix,2
+BOT,Kick Sauber,Monaco Grand Prix,2
+BOT,Kick Sauber,Saudi Arabian Grand Prix,2
+BOT,Kick Sauber,Spanish Grand Prix,2
+GAS,Alpine,Australian Grand Prix,2
+GAS,Alpine,Austrian Grand Prix,2
+GAS,Alpine,Bahrain Grand Prix,3
+GAS,Alpine,Belgian Grand Prix,2
+GAS,Alpine,Canadian Grand Prix,2
+GAS,Alpine,Chinese Grand Prix,3
+GAS,Alpine,Dutch Grand Prix,1
+GAS,Alpine,Emilia Romagna Grand Prix,2
+GAS,Alpine,Hungarian Grand Prix,2
+GAS,Alpine,Japanese Grand Prix,3
+GAS,Alpine,Miami Grand Prix,1
+GAS,Alpine,Monaco Grand Prix,1
+GAS,Alpine,Saudi Arabian Grand Prix,1
+GAS,Alpine,Spanish Grand Prix,2
+HAM,Mercedes,Australian Grand Prix,1
+HAM,Mercedes,Austrian Grand Prix,2
+HAM,Mercedes,Bahrain Grand Prix,2
+HAM,Mercedes,Belgian Grand Prix,2
+HAM,Mercedes,British Grand Prix,2
+HAM,Mercedes,Canadian Grand Prix,3
+HAM,Mercedes,Chinese Grand Prix,2
+HAM,Mercedes,Dutch Grand Prix,2
+HAM,Mercedes,Emilia Romagna Grand Prix,1
+HAM,Mercedes,Hungarian Grand Prix,2
+HAM,Mercedes,Japanese Grand Prix,3
+HAM,Mercedes,Miami Grand Prix,1
+HAM,Mercedes,Monaco Grand Prix,2
+HAM,Mercedes,Saudi Arabian Grand Prix,1
+HAM,Mercedes,Spanish Grand Prix,2
+HUL,Haas F1 Team,Australian Grand Prix,2
+HUL,Haas F1 Team,Austrian Grand Prix,2
+HUL,Haas F1 Team,Bahrain Grand Prix,3
+HUL,Haas F1 Team,Belgian Grand Prix,2
+HUL,Haas F1 Team,British Grand Prix,2
+HUL,Haas F1 Team,Canadian Grand Prix,3
+HUL,Haas F1 Team,Chinese Grand Prix,2
+HUL,Haas F1 Team,Dutch Grand Prix,1
+HUL,Haas F1 Team,Emilia Romagna Grand Prix,1
+HUL,Haas F1 Team,Hungarian Grand Prix,2
+HUL,Haas F1 Team,Japanese Grand Prix,3
+HUL,Haas F1 Team,Miami Grand Prix,2
+HUL,Haas F1 Team,Saudi Arabian Grand Prix,1
+HUL,Haas F1 Team,Spanish Grand Prix,2
+LEC,Ferrari,Australian Grand Prix,2
+LEC,Ferrari,Austrian Grand Prix,4
+LEC,Ferrari,Bahrain Grand Prix,2
+LEC,Ferrari,Belgian Grand Prix,2
+LEC,Ferrari,British Grand Prix,3
+LEC,Ferrari,Canadian Grand Prix,4
+LEC,Ferrari,Chinese Grand Prix,1
+LEC,Ferrari,Dutch Grand Prix,1
+LEC,Ferrari,Emilia Romagna Grand Prix,1
+LEC,Ferrari,Hungarian Grand Prix,2
+LEC,Ferrari,Japanese Grand Prix,2
+LEC,Ferrari,Miami Grand Prix,1
+LEC,Ferrari,Monaco Grand Prix,1
+LEC,Ferrari,Saudi Arabian Grand Prix,1
+LEC,Ferrari,Spanish Grand Prix,2
+MAG,Haas F1 Team,Australian Grand Prix,2
+MAG,Haas F1 Team,Austrian Grand Prix,2
+MAG,Haas F1 Team,Bahrain Grand Prix,2
+MAG,Haas F1 Team,Belgian Grand Prix,1
+MAG,Haas F1 Team,British Grand Prix,2
+MAG,Haas F1 Team,Canadian Grand Prix,4
+MAG,Haas F1 Team,Chinese Grand Prix,2
+MAG,Haas F1 Team,Dutch Grand Prix,1
+MAG,Haas F1 Team,Emilia Romagna Grand Prix,1
+MAG,Haas F1 Team,Hungarian Grand Prix,2
+MAG,Haas F1 Team,Japanese Grand Prix,2
+MAG,Haas F1 Team,Miami Grand Prix,3
+MAG,Haas F1 Team,Saudi Arabian Grand Prix,1
+MAG,Haas F1 Team,Spanish Grand Prix,2
+NOR,McLaren,Australian Grand Prix,2
+NOR,McLaren,Austrian Grand Prix,3
+NOR,McLaren,Bahrain Grand Prix,2
+NOR,McLaren,Belgian Grand Prix,2
+NOR,McLaren,British Grand Prix,2
+NOR,McLaren,Canadian Grand Prix,2
+NOR,McLaren,Chinese Grand Prix,1
+NOR,McLaren,Dutch Grand Prix,1
+NOR,McLaren,Emilia Romagna Grand Prix,1
+NOR,McLaren,Hungarian Grand Prix,2
+NOR,McLaren,Japanese Grand Prix,3
+NOR,McLaren,Miami Grand Prix,1
+NOR,McLaren,Monaco Grand Prix,1
+NOR,McLaren,Saudi Arabian Grand Prix,1
+NOR,McLaren,Spanish Grand Prix,2
+OCO,Alpine,Australian Grand Prix,3
+OCO,Alpine,Austrian Grand Prix,2
+OCO,Alpine,Bahrain Grand Prix,2
+OCO,Alpine,Belgian Grand Prix,2
+OCO,Alpine,British Grand Prix,4
+OCO,Alpine,Canadian Grand Prix,1
+OCO,Alpine,Chinese Grand Prix,2
+OCO,Alpine,Dutch Grand Prix,1
+OCO,Alpine,Emilia Romagna Grand Prix,1
+OCO,Alpine,Hungarian Grand Prix,3
+OCO,Alpine,Japanese Grand Prix,3
+OCO,Alpine,Miami Grand Prix,1
+OCO,Alpine,Saudi Arabian Grand Prix,1
+OCO,Alpine,Spanish Grand Prix,2
+PER,Red Bull Racing,Australian Grand Prix,2
+PER,Red Bull Racing,Austrian Grand Prix,2
+PER,Red Bull Racing,Bahrain Grand Prix,2
+PER,Red Bull Racing,Belgian Grand Prix,3
+PER,Red Bull Racing,British Grand Prix,4
+PER,Red Bull Racing,Canadian Grand Prix,3
+PER,Red Bull Racing,Chinese Grand Prix,2
+PER,Red Bull Racing,Dutch Grand Prix,1
+PER,Red Bull Racing,Emilia Romagna Grand Prix,1
+PER,Red Bull Racing,Hungarian Grand Prix,2
+PER,Red Bull Racing,Japanese Grand Prix,3
+PER,Red Bull Racing,Miami Grand Prix,2
+PER,Red Bull Racing,Saudi Arabian Grand Prix,1
+PER,Red Bull Racing,Spanish Grand Prix,3
+PIA,McLaren,Australian Grand Prix,2
+PIA,McLaren,Austrian Grand Prix,2
+PIA,McLaren,Bahrain Grand Prix,2
+PIA,McLaren,Belgian Grand Prix,2
+PIA,McLaren,British Grand Prix,2
+PIA,McLaren,Canadian Grand Prix,2
+PIA,McLaren,Chinese Grand Prix,2
+PIA,McLaren,Dutch Grand Prix,1
+PIA,McLaren,Emilia Romagna Grand Prix,1
+PIA,McLaren,Hungarian Grand Prix,2
+PIA,McLaren,Japanese Grand Prix,3
+PIA,McLaren,Miami Grand Prix,2
+PIA,McLaren,Monaco Grand Prix,1
+PIA,McLaren,Saudi Arabian Grand Prix,1
+PIA,McLaren,Spanish Grand Prix,2
+RIC,RB,Australian Grand Prix,2
+RIC,RB,Austrian Grand Prix,2
+RIC,RB,Bahrain Grand Prix,2
+RIC,RB,Belgian Grand Prix,2
+RIC,RB,British Grand Prix,2
+RIC,RB,Canadian Grand Prix,2
+RIC,RB,Chinese Grand Prix,2
+RIC,RB,Dutch Grand Prix,1
+RIC,RB,Emilia Romagna Grand Prix,1
+RIC,RB,Hungarian Grand Prix,2
+RIC,RB,Miami Grand Prix,1
+RIC,RB,Monaco Grand Prix,1
+RIC,RB,Saudi Arabian Grand Prix,1
+RIC,RB,Spanish Grand Prix,2
+RUS,Mercedes,Australian Grand Prix,2
+RUS,Mercedes,Austrian Grand Prix,2
+RUS,Mercedes,Bahrain Grand Prix,2
+RUS,Mercedes,Belgian Grand Prix,1
+RUS,Mercedes,British Grand Prix,2
+RUS,Mercedes,Canadian Grand Prix,3
+RUS,Mercedes,Chinese Grand Prix,2
+RUS,Mercedes,Dutch Grand Prix,2
+RUS,Mercedes,Emilia Romagna Grand Prix,2
+RUS,Mercedes,Hungarian Grand Prix,2
+RUS,Mercedes,Japanese Grand Prix,3
+RUS,Mercedes,Miami Grand Prix,1
+RUS,Mercedes,Monaco Grand Prix,1
+RUS,Mercedes,Saudi Arabian Grand Prix,1
+RUS,Mercedes,Spanish Grand Prix,2
+SAI,Ferrari,Australian Grand Prix,2
+SAI,Ferrari,Austrian Grand Prix,2
+SAI,Ferrari,Bahrain Grand Prix,2
+SAI,Ferrari,Belgian Grand Prix,2
+SAI,Ferrari,British Grand Prix,3
+SAI,Ferrari,Canadian Grand Prix,3
+SAI,Ferrari,Chinese Grand Prix,1
+SAI,Ferrari,Dutch Grand Prix,1
+SAI,Ferrari,Emilia Romagna Grand Prix,1
+SAI,Ferrari,Hungarian Grand Prix,2
+SAI,Ferrari,Japanese Grand Prix,3
+SAI,Ferrari,Miami Grand Prix,1
+SAI,Ferrari,Monaco Grand Prix,1
+SAI,Ferrari,Spanish Grand Prix,2
+SAR,Williams,Austrian Grand Prix,3
+SAR,Williams,Bahrain Grand Prix,3
+SAR,Williams,Belgian Grand Prix,2
+SAR,Williams,British Grand Prix,2
+SAR,Williams,Chinese Grand Prix,2
+SAR,Williams,Dutch Grand Prix,1
+SAR,Williams,Emilia Romagna Grand Prix,1
+SAR,Williams,Hungarian Grand Prix,3
+SAR,Williams,Japanese Grand Prix,4
+SAR,Williams,Miami Grand Prix,1
+SAR,Williams,Monaco Grand Prix,2
+SAR,Williams,Saudi Arabian Grand Prix,1
+SAR,Williams,Spanish Grand Prix,2
+STR,Aston Martin,Australian Grand Prix,2
+STR,Aston Martin,Austrian Grand Prix,2
+STR,Aston Martin,Bahrain Grand Prix,2
+STR,Aston Martin,Belgian Grand Prix,1
+STR,Aston Martin,British Grand Prix,2
+STR,Aston Martin,Canadian Grand Prix,2
+STR,Aston Martin,Chinese Grand Prix,4
+STR,Aston Martin,Dutch Grand Prix,1
+STR,Aston Martin,Emilia Romagna Grand Prix,1
+STR,Aston Martin,Hungarian Grand Prix,2
+STR,Aston Martin,Japanese Grand Prix,4
+STR,Aston Martin,Miami Grand Prix,2
+STR,Aston Martin,Monaco Grand Prix,3
+STR,Aston Martin,Spanish Grand Prix,2
+TSU,RB,Australian Grand Prix,2
+TSU,RB,Austrian Grand Prix,2
+TSU,RB,Bahrain Grand Prix,2
+TSU,RB,Belgian Grand Prix,1
+TSU,RB,British Grand Prix,2
+TSU,RB,Canadian Grand Prix,1
+TSU,RB,Chinese Grand Prix,2
+TSU,RB,Dutch Grand Prix,2
+TSU,RB,Emilia Romagna Grand Prix,1
+TSU,RB,Hungarian Grand Prix,1
+TSU,RB,Japanese Grand Prix,3
+TSU,RB,Miami Grand Prix,1
+TSU,RB,Monaco Grand Prix,1
+TSU,RB,Saudi Arabian Grand Prix,1
+TSU,RB,Spanish Grand Prix,3
+VER,Red Bull Racing,Australian Grand Prix,1
+VER,Red Bull Racing,Austrian Grand Prix,3
+VER,Red Bull Racing,Bahrain Grand Prix,2
+VER,Red Bull Racing,Belgian Grand Prix,2
+VER,Red Bull Racing,British Grand Prix,2
+VER,Red Bull Racing,Canadian Grand Prix,2
+VER,Red Bull Racing,Chinese Grand Prix,2
+VER,Red Bull Racing,Dutch Grand Prix,1
+VER,Red Bull Racing,Emilia Romagna Grand Prix,1
+VER,Red Bull Racing,Hungarian Grand Prix,2
+VER,Red Bull Racing,Japanese Grand Prix,3
+VER,Red Bull Racing,Miami Grand Prix,1
+VER,Red Bull Racing,Monaco Grand Prix,2
+VER,Red Bull Racing,Saudi Arabian Grand Prix,1
+VER,Red Bull Racing,Spanish Grand Prix,2
+ZHO,Kick Sauber,Australian Grand Prix,2
+ZHO,Kick Sauber,Austrian Grand Prix,2
+ZHO,Kick Sauber,Bahrain Grand Prix,2
+ZHO,Kick Sauber,Belgian Grand Prix,1
+ZHO,Kick Sauber,British Grand Prix,4
+ZHO,Kick Sauber,Canadian Grand Prix,3
+ZHO,Kick Sauber,Chinese Grand Prix,3
+ZHO,Kick Sauber,Dutch Grand Prix,2
+ZHO,Kick Sauber,Emilia Romagna Grand Prix,1
+ZHO,Kick Sauber,Hungarian Grand Prix,2
+ZHO,Kick Sauber,Japanese Grand Prix,4
+ZHO,Kick Sauber,Miami Grand Prix,1
+ZHO,Kick Sauber,Monaco Grand Prix,2
+ZHO,Kick Sauber,Saudi Arabian Grand Prix,1
+ZHO,Kick Sauber,Spanish Grand Prix,2

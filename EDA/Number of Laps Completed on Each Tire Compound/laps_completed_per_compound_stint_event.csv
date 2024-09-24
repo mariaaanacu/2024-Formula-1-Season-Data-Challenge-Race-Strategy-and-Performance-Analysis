@@ -1,0 +1,844 @@
+EventName,Driver,Team,Compound,Stint,LapsCompleted
+Australian Grand Prix,ALB,Williams,HARD,2,21
+Australian Grand Prix,ALB,Williams,HARD,3,30
+Australian Grand Prix,ALB,Williams,MEDIUM,1,6
+Australian Grand Prix,ALO,Aston Martin,HARD,1,17
+Australian Grand Prix,ALO,Aston Martin,HARD,3,17
+Australian Grand Prix,ALO,Aston Martin,MEDIUM,2,24
+Australian Grand Prix,BOT,Kick Sauber,HARD,2,28
+Australian Grand Prix,BOT,Kick Sauber,HARD,3,21
+Australian Grand Prix,BOT,Kick Sauber,MEDIUM,1,8
+Australian Grand Prix,GAS,Alpine,HARD,2,24
+Australian Grand Prix,GAS,Alpine,HARD,3,16
+Australian Grand Prix,GAS,Alpine,MEDIUM,1,17
+Australian Grand Prix,HAM,Mercedes,HARD,2,9
+Australian Grand Prix,HAM,Mercedes,SOFT,1,7
+Australian Grand Prix,HUL,Haas F1 Team,HARD,1,17
+Australian Grand Prix,HUL,Haas F1 Team,HARD,3,23
+Australian Grand Prix,HUL,Haas F1 Team,MEDIUM,2,18
+Australian Grand Prix,LEC,Ferrari,HARD,2,25
+Australian Grand Prix,LEC,Ferrari,HARD,3,24
+Australian Grand Prix,LEC,Ferrari,MEDIUM,1,9
+Australian Grand Prix,MAG,Haas F1 Team,HARD,2,26
+Australian Grand Prix,MAG,Haas F1 Team,HARD,3,24
+Australian Grand Prix,MAG,Haas F1 Team,MEDIUM,1,7
+Australian Grand Prix,NOR,McLaren,HARD,2,26
+Australian Grand Prix,NOR,McLaren,HARD,3,18
+Australian Grand Prix,NOR,McLaren,MEDIUM,1,14
+Australian Grand Prix,OCO,Alpine,HARD,2,7
+Australian Grand Prix,OCO,Alpine,HARD,3,26
+Australian Grand Prix,OCO,Alpine,HARD,4,15
+Australian Grand Prix,OCO,Alpine,MEDIUM,1,9
+Australian Grand Prix,PER,Red Bull Racing,HARD,2,21
+Australian Grand Prix,PER,Red Bull Racing,HARD,3,23
+Australian Grand Prix,PER,Red Bull Racing,MEDIUM,1,14
+Australian Grand Prix,PIA,McLaren,HARD,2,30
+Australian Grand Prix,PIA,McLaren,HARD,3,19
+Australian Grand Prix,PIA,McLaren,MEDIUM,1,9
+Australian Grand Prix,RIC,RB,HARD,2,24
+Australian Grand Prix,RIC,RB,HARD,3,28
+Australian Grand Prix,RIC,RB,SOFT,1,5
+Australian Grand Prix,RUS,Mercedes,HARD,2,37
+Australian Grand Prix,RUS,Mercedes,HARD,3,12
+Australian Grand Prix,RUS,Mercedes,MEDIUM,1,8
+Australian Grand Prix,SAI,Ferrari,HARD,2,25
+Australian Grand Prix,SAI,Ferrari,HARD,3,17
+Australian Grand Prix,SAI,Ferrari,MEDIUM,1,16
+Australian Grand Prix,STR,Aston Martin,HARD,2,29
+Australian Grand Prix,STR,Aston Martin,HARD,3,21
+Australian Grand Prix,STR,Aston Martin,MEDIUM,1,8
+Australian Grand Prix,TSU,RB,HARD,2,27
+Australian Grand Prix,TSU,RB,HARD,3,22
+Australian Grand Prix,TSU,RB,MEDIUM,1,9
+Australian Grand Prix,VER,Red Bull Racing,MEDIUM,1,4
+Australian Grand Prix,ZHO,Kick Sauber,HARD,2,29
+Australian Grand Prix,ZHO,Kick Sauber,HARD,3,22
+Australian Grand Prix,ZHO,Kick Sauber,SOFT,1,6
+Austrian Grand Prix,ALB,Williams,HARD,2,27
+Austrian Grand Prix,ALB,Williams,HARD,3,31
+Austrian Grand Prix,ALB,Williams,MEDIUM,1,12
+Austrian Grand Prix,ALO,Aston Martin,HARD,3,33
+Austrian Grand Prix,ALO,Aston Martin,MEDIUM,1,11
+Austrian Grand Prix,ALO,Aston Martin,MEDIUM,2,24
+Austrian Grand Prix,ALO,Aston Martin,SOFT,4,2
+Austrian Grand Prix,BOT,Kick Sauber,HARD,2,23
+Austrian Grand Prix,BOT,Kick Sauber,HARD,3,28
+Austrian Grand Prix,BOT,Kick Sauber,MEDIUM,1,19
+Austrian Grand Prix,GAS,Alpine,HARD,2,22
+Austrian Grand Prix,GAS,Alpine,MEDIUM,1,20
+Austrian Grand Prix,GAS,Alpine,MEDIUM,3,29
+Austrian Grand Prix,HAM,Mercedes,HARD,2,32
+Austrian Grand Prix,HAM,Mercedes,MEDIUM,1,21
+Austrian Grand Prix,HAM,Mercedes,MEDIUM,3,18
+Austrian Grand Prix,HUL,Haas F1 Team,HARD,2,28
+Austrian Grand Prix,HUL,Haas F1 Team,HARD,3,32
+Austrian Grand Prix,HUL,Haas F1 Team,MEDIUM,1,11
+Austrian Grand Prix,LEC,Ferrari,HARD,2,15
+Austrian Grand Prix,LEC,Ferrari,MEDIUM,1,1
+Austrian Grand Prix,LEC,Ferrari,MEDIUM,3,17
+Austrian Grand Prix,LEC,Ferrari,MEDIUM,4,18
+Austrian Grand Prix,LEC,Ferrari,MEDIUM,5,20
+Austrian Grand Prix,MAG,Haas F1 Team,HARD,2,28
+Austrian Grand Prix,MAG,Haas F1 Team,HARD,3,33
+Austrian Grand Prix,MAG,Haas F1 Team,MEDIUM,1,10
+Austrian Grand Prix,NOR,McLaren,HARD,2,28
+Austrian Grand Prix,NOR,McLaren,MEDIUM,1,23
+Austrian Grand Prix,NOR,McLaren,MEDIUM,3,13
+Austrian Grand Prix,OCO,Alpine,HARD,2,24
+Austrian Grand Prix,OCO,Alpine,MEDIUM,1,19
+Austrian Grand Prix,OCO,Alpine,MEDIUM,3,28
+Austrian Grand Prix,PER,Red Bull Racing,HARD,2,30
+Austrian Grand Prix,PER,Red Bull Racing,MEDIUM,1,21
+Austrian Grand Prix,PER,Red Bull Racing,MEDIUM,3,20
+Austrian Grand Prix,PIA,McLaren,HARD,2,26
+Austrian Grand Prix,PIA,McLaren,MEDIUM,1,25
+Austrian Grand Prix,PIA,McLaren,MEDIUM,3,20
+Austrian Grand Prix,RIC,RB,HARD,2,27
+Austrian Grand Prix,RIC,RB,HARD,3,34
+Austrian Grand Prix,RIC,RB,MEDIUM,1,10
+Austrian Grand Prix,RUS,Mercedes,HARD,3,25
+Austrian Grand Prix,RUS,Mercedes,MEDIUM,1,22
+Austrian Grand Prix,RUS,Mercedes,MEDIUM,2,24
+Austrian Grand Prix,SAI,Ferrari,HARD,2,25
+Austrian Grand Prix,SAI,Ferrari,MEDIUM,1,22
+Austrian Grand Prix,SAI,Ferrari,MEDIUM,3,24
+Austrian Grand Prix,SAR,Williams,HARD,3,29
+Austrian Grand Prix,SAR,Williams,MEDIUM,1,1
+Austrian Grand Prix,SAR,Williams,MEDIUM,2,19
+Austrian Grand Prix,SAR,Williams,MEDIUM,4,20
+Austrian Grand Prix,STR,Aston Martin,HARD,3,27
+Austrian Grand Prix,STR,Aston Martin,MEDIUM,1,20
+Austrian Grand Prix,STR,Aston Martin,MEDIUM,2,23
+Austrian Grand Prix,TSU,RB,HARD,2,23
+Austrian Grand Prix,TSU,RB,HARD,3,26
+Austrian Grand Prix,TSU,RB,MEDIUM,1,21
+Austrian Grand Prix,VER,Red Bull Racing,HARD,2,28
+Austrian Grand Prix,VER,Red Bull Racing,MEDIUM,1,23
+Austrian Grand Prix,VER,Red Bull Racing,MEDIUM,3,13
+Austrian Grand Prix,VER,Red Bull Racing,SOFT,4,7
+Austrian Grand Prix,ZHO,Kick Sauber,HARD,1,28
+Austrian Grand Prix,ZHO,Kick Sauber,HARD,3,19
+Austrian Grand Prix,ZHO,Kick Sauber,MEDIUM,2,23
+Bahrain Grand Prix,ALB,Williams,HARD,2,21
+Bahrain Grand Prix,ALB,Williams,HARD,3,20
+Bahrain Grand Prix,ALB,Williams,SOFT,1,15
+Bahrain Grand Prix,ALO,Aston Martin,HARD,2,26
+Bahrain Grand Prix,ALO,Aston Martin,HARD,3,16
+Bahrain Grand Prix,ALO,Aston Martin,SOFT,1,15
+Bahrain Grand Prix,BOT,Kick Sauber,HARD,2,18
+Bahrain Grand Prix,BOT,Kick Sauber,HARD,3,26
+Bahrain Grand Prix,BOT,Kick Sauber,SOFT,1,12
+Bahrain Grand Prix,GAS,Alpine,HARD,2,19
+Bahrain Grand Prix,GAS,Alpine,HARD,3,12
+Bahrain Grand Prix,GAS,Alpine,SOFT,1,12
+Bahrain Grand Prix,GAS,Alpine,SOFT,4,13
+Bahrain Grand Prix,HAM,Mercedes,HARD,2,21
+Bahrain Grand Prix,HAM,Mercedes,HARD,3,24
+Bahrain Grand Prix,HAM,Mercedes,SOFT,1,12
+Bahrain Grand Prix,HUL,Haas F1 Team,HARD,2,19
+Bahrain Grand Prix,HUL,Haas F1 Team,HARD,3,21
+Bahrain Grand Prix,HUL,Haas F1 Team,SOFT,1,1
+Bahrain Grand Prix,HUL,Haas F1 Team,SOFT,4,15
+Bahrain Grand Prix,LEC,Ferrari,HARD,2,23
+Bahrain Grand Prix,LEC,Ferrari,HARD,3,23
+Bahrain Grand Prix,LEC,Ferrari,SOFT,1,11
+Bahrain Grand Prix,MAG,Haas F1 Team,HARD,2,21
+Bahrain Grand Prix,MAG,Haas F1 Team,HARD,3,24
+Bahrain Grand Prix,MAG,Haas F1 Team,SOFT,1,11
+Bahrain Grand Prix,NOR,McLaren,HARD,2,20
+Bahrain Grand Prix,NOR,McLaren,HARD,3,24
+Bahrain Grand Prix,NOR,McLaren,SOFT,1,13
+Bahrain Grand Prix,OCO,Alpine,HARD,2,20
+Bahrain Grand Prix,OCO,Alpine,HARD,3,26
+Bahrain Grand Prix,OCO,Alpine,SOFT,1,10
+Bahrain Grand Prix,PER,Red Bull Racing,HARD,2,24
+Bahrain Grand Prix,PER,Red Bull Racing,SOFT,1,12
+Bahrain Grand Prix,PER,Red Bull Racing,SOFT,3,21
+Bahrain Grand Prix,PIA,McLaren,HARD,2,22
+Bahrain Grand Prix,PIA,McLaren,HARD,3,23
+Bahrain Grand Prix,PIA,McLaren,SOFT,1,12
+Bahrain Grand Prix,RIC,RB,HARD,2,22
+Bahrain Grand Prix,RIC,RB,SOFT,1,13
+Bahrain Grand Prix,RIC,RB,SOFT,3,21
+Bahrain Grand Prix,RUS,Mercedes,HARD,2,20
+Bahrain Grand Prix,RUS,Mercedes,HARD,3,26
+Bahrain Grand Prix,RUS,Mercedes,SOFT,1,11
+Bahrain Grand Prix,SAI,Ferrari,HARD,2,21
+Bahrain Grand Prix,SAI,Ferrari,HARD,3,22
+Bahrain Grand Prix,SAI,Ferrari,SOFT,1,14
+Bahrain Grand Prix,SAR,Williams,HARD,2,18
+Bahrain Grand Prix,SAR,Williams,HARD,3,12
+Bahrain Grand Prix,SAR,Williams,SOFT,1,10
+Bahrain Grand Prix,SAR,Williams,SOFT,4,15
+Bahrain Grand Prix,STR,Aston Martin,HARD,2,18
+Bahrain Grand Prix,STR,Aston Martin,HARD,3,30
+Bahrain Grand Prix,STR,Aston Martin,SOFT,1,9
+Bahrain Grand Prix,TSU,RB,HARD,2,20
+Bahrain Grand Prix,TSU,RB,HARD,3,22
+Bahrain Grand Prix,TSU,RB,SOFT,1,14
+Bahrain Grand Prix,VER,Red Bull Racing,HARD,2,20
+Bahrain Grand Prix,VER,Red Bull Racing,SOFT,1,17
+Bahrain Grand Prix,VER,Red Bull Racing,SOFT,3,20
+Bahrain Grand Prix,ZHO,Kick Sauber,HARD,2,19
+Bahrain Grand Prix,ZHO,Kick Sauber,HARD,3,28
+Bahrain Grand Prix,ZHO,Kick Sauber,SOFT,1,9
+Belgian Grand Prix,ALB,Williams,HARD,3,21
+Belgian Grand Prix,ALB,Williams,MEDIUM,1,8
+Belgian Grand Prix,ALB,Williams,MEDIUM,2,15
+Belgian Grand Prix,ALO,Aston Martin,HARD,2,31
+Belgian Grand Prix,ALO,Aston Martin,MEDIUM,1,13
+Belgian Grand Prix,BOT,Kick Sauber,HARD,2,24
+Belgian Grand Prix,BOT,Kick Sauber,MEDIUM,1,11
+Belgian Grand Prix,BOT,Kick Sauber,MEDIUM,3,9
+Belgian Grand Prix,GAS,Alpine,HARD,2,19
+Belgian Grand Prix,GAS,Alpine,HARD,3,16
+Belgian Grand Prix,GAS,Alpine,MEDIUM,1,9
+Belgian Grand Prix,HAM,Mercedes,HARD,2,15
+Belgian Grand Prix,HAM,Mercedes,HARD,3,18
+Belgian Grand Prix,HAM,Mercedes,MEDIUM,1,11
+Belgian Grand Prix,HUL,Haas F1 Team,HARD,2,13
+Belgian Grand Prix,HUL,Haas F1 Team,MEDIUM,1,7
+Belgian Grand Prix,HUL,Haas F1 Team,MEDIUM,3,24
+Belgian Grand Prix,LEC,Ferrari,HARD,2,13
+Belgian Grand Prix,LEC,Ferrari,HARD,3,19
+Belgian Grand Prix,LEC,Ferrari,MEDIUM,1,12
+Belgian Grand Prix,MAG,Haas F1 Team,HARD,2,27
+Belgian Grand Prix,MAG,Haas F1 Team,MEDIUM,1,17
+Belgian Grand Prix,NOR,McLaren,HARD,2,14
+Belgian Grand Prix,NOR,McLaren,HARD,3,15
+Belgian Grand Prix,NOR,McLaren,MEDIUM,1,15
+Belgian Grand Prix,OCO,Alpine,HARD,2,18
+Belgian Grand Prix,OCO,Alpine,HARD,3,14
+Belgian Grand Prix,OCO,Alpine,MEDIUM,1,12
+Belgian Grand Prix,PER,Red Bull Racing,HARD,3,21
+Belgian Grand Prix,PER,Red Bull Racing,MEDIUM,1,11
+Belgian Grand Prix,PER,Red Bull Racing,MEDIUM,2,10
+Belgian Grand Prix,PER,Red Bull Racing,SOFT,4,2
+Belgian Grand Prix,PIA,McLaren,HARD,2,19
+Belgian Grand Prix,PIA,McLaren,HARD,3,14
+Belgian Grand Prix,PIA,McLaren,MEDIUM,1,11
+Belgian Grand Prix,RIC,RB,HARD,3,23
+Belgian Grand Prix,RIC,RB,MEDIUM,2,13
+Belgian Grand Prix,RIC,RB,SOFT,1,8
+Belgian Grand Prix,RUS,Mercedes,HARD,2,34
+Belgian Grand Prix,RUS,Mercedes,MEDIUM,1,10
+Belgian Grand Prix,SAI,Ferrari,HARD,1,20
+Belgian Grand Prix,SAI,Ferrari,HARD,3,16
+Belgian Grand Prix,SAI,Ferrari,MEDIUM,2,8
+Belgian Grand Prix,SAR,Williams,HARD,3,20
+Belgian Grand Prix,SAR,Williams,MEDIUM,1,8
+Belgian Grand Prix,SAR,Williams,MEDIUM,2,16
+Belgian Grand Prix,STR,Aston Martin,HARD,2,32
+Belgian Grand Prix,STR,Aston Martin,MEDIUM,1,12
+Belgian Grand Prix,TSU,RB,HARD,2,29
+Belgian Grand Prix,TSU,RB,MEDIUM,1,15
+Belgian Grand Prix,VER,Red Bull Racing,HARD,2,18
+Belgian Grand Prix,VER,Red Bull Racing,MEDIUM,1,10
+Belgian Grand Prix,VER,Red Bull Racing,MEDIUM,3,16
+Belgian Grand Prix,ZHO,Kick Sauber,HARD,1,5
+British Grand Prix,ALB,Williams,INTERMEDIATE,2,11
+British Grand Prix,ALB,Williams,MEDIUM,1,27
+British Grand Prix,ALB,Williams,MEDIUM,3,14
+British Grand Prix,ALO,Aston Martin,INTERMEDIATE,2,11
+British Grand Prix,ALO,Aston Martin,MEDIUM,1,27
+British Grand Prix,ALO,Aston Martin,MEDIUM,3,14
+British Grand Prix,BOT,Kick Sauber,INTERMEDIATE,2,11
+British Grand Prix,BOT,Kick Sauber,MEDIUM,1,26
+British Grand Prix,BOT,Kick Sauber,SOFT,3,14
+British Grand Prix,GAS,Alpine,MEDIUM,1,1
+British Grand Prix,HAM,Mercedes,INTERMEDIATE,2,11
+British Grand Prix,HAM,Mercedes,MEDIUM,1,27
+British Grand Prix,HAM,Mercedes,SOFT,3,14
+British Grand Prix,HUL,Haas F1 Team,INTERMEDIATE,2,13
+British Grand Prix,HUL,Haas F1 Team,MEDIUM,1,26
+British Grand Prix,HUL,Haas F1 Team,SOFT,3,13
+British Grand Prix,LEC,Ferrari,INTERMEDIATE,2,8
+British Grand Prix,LEC,Ferrari,INTERMEDIATE,3,10
+British Grand Prix,LEC,Ferrari,MEDIUM,1,19
+British Grand Prix,LEC,Ferrari,SOFT,4,14
+British Grand Prix,MAG,Haas F1 Team,INTERMEDIATE,2,10
+British Grand Prix,MAG,Haas F1 Team,MEDIUM,1,27
+British Grand Prix,MAG,Haas F1 Team,SOFT,3,15
+British Grand Prix,NOR,McLaren,INTERMEDIATE,2,12
+British Grand Prix,NOR,McLaren,MEDIUM,1,27
+British Grand Prix,NOR,McLaren,SOFT,3,13
+British Grand Prix,OCO,Alpine,INTERMEDIATE,2,2
+British Grand Prix,OCO,Alpine,INTERMEDIATE,4,12
+British Grand Prix,OCO,Alpine,MEDIUM,3,5
+British Grand Prix,OCO,Alpine,MEDIUM,5,12
+British Grand Prix,OCO,Alpine,SOFT,1,19
+British Grand Prix,PER,Red Bull Racing,HARD,1,19
+British Grand Prix,PER,Red Bull Racing,INTERMEDIATE,2,9
+British Grand Prix,PER,Red Bull Racing,INTERMEDIATE,3,9
+British Grand Prix,PER,Red Bull Racing,MEDIUM,4,10
+British Grand Prix,PER,Red Bull Racing,SOFT,5,3
+British Grand Prix,PIA,McLaren,INTERMEDIATE,2,10
+British Grand Prix,PIA,McLaren,MEDIUM,1,28
+British Grand Prix,PIA,McLaren,MEDIUM,3,14
+British Grand Prix,RIC,RB,INTERMEDIATE,2,11
+British Grand Prix,RIC,RB,MEDIUM,1,26
+British Grand Prix,RIC,RB,SOFT,3,14
+British Grand Prix,RUS,Mercedes,INTERMEDIATE,2,6
+British Grand Prix,RUS,Mercedes,MEDIUM,1,27
+British Grand Prix,SAI,Ferrari,HARD,3,11
+British Grand Prix,SAI,Ferrari,INTERMEDIATE,2,13
+British Grand Prix,SAI,Ferrari,MEDIUM,1,26
+British Grand Prix,SAI,Ferrari,SOFT,4,2
+British Grand Prix,SAR,Williams,INTERMEDIATE,2,11
+British Grand Prix,SAR,Williams,MEDIUM,1,27
+British Grand Prix,SAR,Williams,SOFT,3,14
+British Grand Prix,STR,Aston Martin,INTERMEDIATE,2,13
+British Grand Prix,STR,Aston Martin,MEDIUM,1,26
+British Grand Prix,STR,Aston Martin,MEDIUM,3,13
+British Grand Prix,TSU,RB,INTERMEDIATE,2,11
+British Grand Prix,TSU,RB,MEDIUM,1,27
+British Grand Prix,TSU,RB,SOFT,3,14
+British Grand Prix,VER,Red Bull Racing,HARD,3,14
+British Grand Prix,VER,Red Bull Racing,INTERMEDIATE,2,12
+British Grand Prix,VER,Red Bull Racing,MEDIUM,1,26
+British Grand Prix,ZHO,Kick Sauber,INTERMEDIATE,3,7
+British Grand Prix,ZHO,Kick Sauber,INTERMEDIATE,4,11
+British Grand Prix,ZHO,Kick Sauber,MEDIUM,2,7
+British Grand Prix,ZHO,Kick Sauber,SOFT,1,12
+British Grand Prix,ZHO,Kick Sauber,SOFT,5,13
+Canadian Grand Prix,ALB,Williams,INTERMEDIATE,1,25
+Canadian Grand Prix,ALB,Williams,INTERMEDIATE,2,19
+Canadian Grand Prix,ALB,Williams,MEDIUM,3,9
+Canadian Grand Prix,ALO,Aston Martin,HARD,3,26
+Canadian Grand Prix,ALO,Aston Martin,INTERMEDIATE,1,25
+Canadian Grand Prix,ALO,Aston Martin,INTERMEDIATE,2,19
+Canadian Grand Prix,BOT,Kick Sauber,INTERMEDIATE,1,42
+Canadian Grand Prix,BOT,Kick Sauber,MEDIUM,2,28
+Canadian Grand Prix,GAS,Alpine,HARD,3,30
+Canadian Grand Prix,GAS,Alpine,INTERMEDIATE,1,25
+Canadian Grand Prix,GAS,Alpine,INTERMEDIATE,2,15
+Canadian Grand Prix,HAM,Mercedes,HARD,4,16
+Canadian Grand Prix,HAM,Mercedes,INTERMEDIATE,1,25
+Canadian Grand Prix,HAM,Mercedes,INTERMEDIATE,2,18
+Canadian Grand Prix,HAM,Mercedes,MEDIUM,3,11
+Canadian Grand Prix,HUL,Haas F1 Team,INTERMEDIATE,2,13
+Canadian Grand Prix,HUL,Haas F1 Team,INTERMEDIATE,3,19
+Canadian Grand Prix,HUL,Haas F1 Team,MEDIUM,4,26
+Canadian Grand Prix,HUL,Haas F1 Team,WET,1,12
+Canadian Grand Prix,LEC,Ferrari,HARD,3,3
+Canadian Grand Prix,LEC,Ferrari,INTERMEDIATE,1,25
+Canadian Grand Prix,LEC,Ferrari,INTERMEDIATE,2,3
+Canadian Grand Prix,LEC,Ferrari,INTERMEDIATE,4,10
+Canadian Grand Prix,MAG,Haas F1 Team,INTERMEDIATE,2,18
+Canadian Grand Prix,MAG,Haas F1 Team,INTERMEDIATE,3,16
+Canadian Grand Prix,MAG,Haas F1 Team,MEDIUM,4,13
+Canadian Grand Prix,MAG,Haas F1 Team,MEDIUM,5,16
+Canadian Grand Prix,MAG,Haas F1 Team,WET,1,7
+Canadian Grand Prix,NOR,McLaren,INTERMEDIATE,1,26
+Canadian Grand Prix,NOR,McLaren,INTERMEDIATE,2,21
+Canadian Grand Prix,NOR,McLaren,MEDIUM,3,23
+Canadian Grand Prix,OCO,Alpine,INTERMEDIATE,1,44
+Canadian Grand Prix,OCO,Alpine,MEDIUM,2,26
+Canadian Grand Prix,PER,Red Bull Racing,INTERMEDIATE,1,25
+Canadian Grand Prix,PER,Red Bull Racing,INTERMEDIATE,2,18
+Canadian Grand Prix,PER,Red Bull Racing,MEDIUM,3,9
+Canadian Grand Prix,PIA,McLaren,INTERMEDIATE,1,25
+Canadian Grand Prix,PIA,McLaren,INTERMEDIATE,2,19
+Canadian Grand Prix,PIA,McLaren,MEDIUM,3,26
+Canadian Grand Prix,RIC,RB,INTERMEDIATE,1,26
+Canadian Grand Prix,RIC,RB,INTERMEDIATE,2,17
+Canadian Grand Prix,RIC,RB,MEDIUM,3,27
+Canadian Grand Prix,RUS,Mercedes,HARD,3,9
+Canadian Grand Prix,RUS,Mercedes,INTERMEDIATE,1,25
+Canadian Grand Prix,RUS,Mercedes,INTERMEDIATE,2,20
+Canadian Grand Prix,RUS,Mercedes,MEDIUM,4,16
+Canadian Grand Prix,SAI,Ferrari,INTERMEDIATE,1,25
+Canadian Grand Prix,SAI,Ferrari,INTERMEDIATE,2,18
+Canadian Grand Prix,SAI,Ferrari,MEDIUM,3,10
+Canadian Grand Prix,SAR,Williams,INTERMEDIATE,1,24
+Canadian Grand Prix,STR,Aston Martin,HARD,3,26
+Canadian Grand Prix,STR,Aston Martin,INTERMEDIATE,1,25
+Canadian Grand Prix,STR,Aston Martin,INTERMEDIATE,2,19
+Canadian Grand Prix,TSU,RB,INTERMEDIATE,1,44
+Canadian Grand Prix,TSU,RB,MEDIUM,2,26
+Canadian Grand Prix,VER,Red Bull Racing,INTERMEDIATE,1,25
+Canadian Grand Prix,VER,Red Bull Racing,INTERMEDIATE,2,20
+Canadian Grand Prix,VER,Red Bull Racing,MEDIUM,3,25
+Canadian Grand Prix,ZHO,Kick Sauber,INTERMEDIATE,1,24
+Canadian Grand Prix,ZHO,Kick Sauber,INTERMEDIATE,2,20
+Canadian Grand Prix,ZHO,Kick Sauber,MEDIUM,3,8
+Canadian Grand Prix,ZHO,Kick Sauber,MEDIUM,4,17
+Chinese Grand Prix,ALB,Williams,HARD,3,33
+Chinese Grand Prix,ALB,Williams,MEDIUM,1,9
+Chinese Grand Prix,ALB,Williams,MEDIUM,2,14
+Chinese Grand Prix,ALO,Aston Martin,HARD,2,12
+Chinese Grand Prix,ALO,Aston Martin,MEDIUM,1,11
+Chinese Grand Prix,ALO,Aston Martin,MEDIUM,4,13
+Chinese Grand Prix,ALO,Aston Martin,SOFT,3,20
+Chinese Grand Prix,BOT,Kick Sauber,HARD,2,11
+Chinese Grand Prix,BOT,Kick Sauber,MEDIUM,1,9
+Chinese Grand Prix,GAS,Alpine,HARD,2,12
+Chinese Grand Prix,GAS,Alpine,HARD,3,15
+Chinese Grand Prix,GAS,Alpine,MEDIUM,1,11
+Chinese Grand Prix,GAS,Alpine,MEDIUM,4,18
+Chinese Grand Prix,HAM,Mercedes,HARD,3,35
+Chinese Grand Prix,HAM,Mercedes,MEDIUM,2,12
+Chinese Grand Prix,HAM,Mercedes,SOFT,1,9
+Chinese Grand Prix,HUL,Haas F1 Team,HARD,2,15
+Chinese Grand Prix,HUL,Haas F1 Team,HARD,3,33
+Chinese Grand Prix,HUL,Haas F1 Team,MEDIUM,1,8
+Chinese Grand Prix,LEC,Ferrari,HARD,2,35
+Chinese Grand Prix,LEC,Ferrari,MEDIUM,1,21
+Chinese Grand Prix,MAG,Haas F1 Team,HARD,1,17
+Chinese Grand Prix,MAG,Haas F1 Team,HARD,2,10
+Chinese Grand Prix,MAG,Haas F1 Team,MEDIUM,3,29
+Chinese Grand Prix,NOR,McLaren,HARD,2,34
+Chinese Grand Prix,NOR,McLaren,MEDIUM,1,22
+Chinese Grand Prix,OCO,Alpine,HARD,2,14
+Chinese Grand Prix,OCO,Alpine,HARD,3,33
+Chinese Grand Prix,OCO,Alpine,MEDIUM,1,9
+Chinese Grand Prix,PER,Red Bull Racing,HARD,2,10
+Chinese Grand Prix,PER,Red Bull Racing,HARD,3,33
+Chinese Grand Prix,PER,Red Bull Racing,MEDIUM,1,13
+Chinese Grand Prix,PIA,McLaren,HARD,3,32
+Chinese Grand Prix,PIA,McLaren,MEDIUM,1,16
+Chinese Grand Prix,PIA,McLaren,MEDIUM,2,8
+Chinese Grand Prix,RIC,RB,MEDIUM,1,14
+Chinese Grand Prix,RIC,RB,MEDIUM,2,19
+Chinese Grand Prix,RUS,Mercedes,HARD,3,33
+Chinese Grand Prix,RUS,Mercedes,MEDIUM,1,11
+Chinese Grand Prix,RUS,Mercedes,MEDIUM,2,12
+Chinese Grand Prix,SAI,Ferrari,HARD,2,39
+Chinese Grand Prix,SAI,Ferrari,MEDIUM,1,17
+Chinese Grand Prix,SAR,Williams,HARD,3,32
+Chinese Grand Prix,SAR,Williams,MEDIUM,2,12
+Chinese Grand Prix,SAR,Williams,SOFT,1,12
+Chinese Grand Prix,STR,Aston Martin,HARD,3,5
+Chinese Grand Prix,STR,Aston Martin,HARD,5,21
+Chinese Grand Prix,STR,Aston Martin,MEDIUM,2,12
+Chinese Grand Prix,STR,Aston Martin,MEDIUM,4,9
+Chinese Grand Prix,STR,Aston Martin,SOFT,1,9
+Chinese Grand Prix,TSU,RB,HARD,3,4
+Chinese Grand Prix,TSU,RB,MEDIUM,2,15
+Chinese Grand Prix,TSU,RB,SOFT,1,8
+Chinese Grand Prix,VER,Red Bull Racing,HARD,2,10
+Chinese Grand Prix,VER,Red Bull Racing,HARD,3,33
+Chinese Grand Prix,VER,Red Bull Racing,MEDIUM,1,13
+Chinese Grand Prix,ZHO,Kick Sauber,HARD,2,15
+Chinese Grand Prix,ZHO,Kick Sauber,HARD,3,17
+Chinese Grand Prix,ZHO,Kick Sauber,MEDIUM,1,8
+Chinese Grand Prix,ZHO,Kick Sauber,SOFT,4,16
+Dutch Grand Prix,ALB,Williams,HARD,2,42
+Dutch Grand Prix,ALB,Williams,MEDIUM,1,12
+Dutch Grand Prix,ALB,Williams,MEDIUM,3,17
+Dutch Grand Prix,ALO,Aston Martin,HARD,2,40
+Dutch Grand Prix,ALO,Aston Martin,MEDIUM,1,31
+Dutch Grand Prix,BOT,Kick Sauber,HARD,2,28
+Dutch Grand Prix,BOT,Kick Sauber,MEDIUM,3,27
+Dutch Grand Prix,BOT,Kick Sauber,SOFT,1,15
+Dutch Grand Prix,GAS,Alpine,HARD,2,39
+Dutch Grand Prix,GAS,Alpine,MEDIUM,1,32
+Dutch Grand Prix,HAM,Mercedes,HARD,2,25
+Dutch Grand Prix,HAM,Mercedes,SOFT,1,23
+Dutch Grand Prix,HAM,Mercedes,SOFT,3,24
+Dutch Grand Prix,HUL,Haas F1 Team,HARD,2,57
+Dutch Grand Prix,HUL,Haas F1 Team,MEDIUM,1,14
+Dutch Grand Prix,LEC,Ferrari,HARD,2,48
+Dutch Grand Prix,LEC,Ferrari,MEDIUM,1,24
+Dutch Grand Prix,MAG,Haas F1 Team,HARD,1,40
+Dutch Grand Prix,MAG,Haas F1 Team,MEDIUM,2,31
+Dutch Grand Prix,NOR,McLaren,HARD,2,44
+Dutch Grand Prix,NOR,McLaren,MEDIUM,1,28
+Dutch Grand Prix,OCO,Alpine,HARD,2,41
+Dutch Grand Prix,OCO,Alpine,MEDIUM,1,30
+Dutch Grand Prix,PER,Red Bull Racing,HARD,2,43
+Dutch Grand Prix,PER,Red Bull Racing,MEDIUM,1,29
+Dutch Grand Prix,PIA,McLaren,HARD,2,39
+Dutch Grand Prix,PIA,McLaren,MEDIUM,1,33
+Dutch Grand Prix,RIC,RB,HARD,2,42
+Dutch Grand Prix,RIC,RB,MEDIUM,1,29
+Dutch Grand Prix,RUS,Mercedes,HARD,2,29
+Dutch Grand Prix,RUS,Mercedes,MEDIUM,1,25
+Dutch Grand Prix,RUS,Mercedes,SOFT,3,18
+Dutch Grand Prix,SAI,Ferrari,HARD,2,42
+Dutch Grand Prix,SAI,Ferrari,MEDIUM,1,30
+Dutch Grand Prix,SAR,Williams,HARD,2,49
+Dutch Grand Prix,SAR,Williams,MEDIUM,1,22
+Dutch Grand Prix,STR,Aston Martin,HARD,2,41
+Dutch Grand Prix,STR,Aston Martin,MEDIUM,1,30
+Dutch Grand Prix,TSU,RB,HARD,3,39
+Dutch Grand Prix,TSU,RB,MEDIUM,2,18
+Dutch Grand Prix,TSU,RB,SOFT,1,14
+Dutch Grand Prix,VER,Red Bull Racing,HARD,2,45
+Dutch Grand Prix,VER,Red Bull Racing,MEDIUM,1,27
+Dutch Grand Prix,ZHO,Kick Sauber,HARD,2,33
+Dutch Grand Prix,ZHO,Kick Sauber,MEDIUM,1,18
+Dutch Grand Prix,ZHO,Kick Sauber,SOFT,3,19
+Emilia Romagna Grand Prix,ALB,Williams,HARD,2,1
+Emilia Romagna Grand Prix,ALB,Williams,MEDIUM,1,8
+Emilia Romagna Grand Prix,ALB,Williams,MEDIUM,3,14
+Emilia Romagna Grand Prix,ALB,Williams,MEDIUM,4,5
+Emilia Romagna Grand Prix,ALB,Williams,MEDIUM,5,23
+Emilia Romagna Grand Prix,ALO,Aston Martin,HARD,2,33
+Emilia Romagna Grand Prix,ALO,Aston Martin,MEDIUM,3,19
+Emilia Romagna Grand Prix,ALO,Aston Martin,SOFT,1,7
+Emilia Romagna Grand Prix,ALO,Aston Martin,SOFT,4,3
+Emilia Romagna Grand Prix,BOT,Kick Sauber,HARD,2,54
+Emilia Romagna Grand Prix,BOT,Kick Sauber,MEDIUM,1,8
+Emilia Romagna Grand Prix,GAS,Alpine,HARD,2,22
+Emilia Romagna Grand Prix,GAS,Alpine,MEDIUM,3,32
+Emilia Romagna Grand Prix,GAS,Alpine,SOFT,1,8
+Emilia Romagna Grand Prix,HAM,Mercedes,HARD,2,36
+Emilia Romagna Grand Prix,HAM,Mercedes,MEDIUM,1,27
+Emilia Romagna Grand Prix,HUL,Haas F1 Team,HARD,2,49
+Emilia Romagna Grand Prix,HUL,Haas F1 Team,MEDIUM,1,13
+Emilia Romagna Grand Prix,LEC,Ferrari,HARD,2,38
+Emilia Romagna Grand Prix,LEC,Ferrari,MEDIUM,1,25
+Emilia Romagna Grand Prix,MAG,Haas F1 Team,HARD,2,25
+Emilia Romagna Grand Prix,MAG,Haas F1 Team,MEDIUM,1,37
+Emilia Romagna Grand Prix,NOR,McLaren,HARD,2,41
+Emilia Romagna Grand Prix,NOR,McLaren,MEDIUM,1,22
+Emilia Romagna Grand Prix,OCO,Alpine,HARD,2,37
+Emilia Romagna Grand Prix,OCO,Alpine,MEDIUM,1,25
+Emilia Romagna Grand Prix,PER,Red Bull Racing,HARD,1,37
+Emilia Romagna Grand Prix,PER,Red Bull Racing,MEDIUM,2,26
+Emilia Romagna Grand Prix,PIA,McLaren,HARD,2,40
+Emilia Romagna Grand Prix,PIA,McLaren,MEDIUM,1,23
+Emilia Romagna Grand Prix,RIC,RB,HARD,2,51
+Emilia Romagna Grand Prix,RIC,RB,MEDIUM,1,11
+Emilia Romagna Grand Prix,RUS,Mercedes,HARD,2,31
+Emilia Romagna Grand Prix,RUS,Mercedes,MEDIUM,1,21
+Emilia Romagna Grand Prix,RUS,Mercedes,MEDIUM,3,11
+Emilia Romagna Grand Prix,SAI,Ferrari,HARD,2,36
+Emilia Romagna Grand Prix,SAI,Ferrari,MEDIUM,1,27
+Emilia Romagna Grand Prix,SAR,Williams,HARD,1,31
+Emilia Romagna Grand Prix,SAR,Williams,MEDIUM,2,31
+Emilia Romagna Grand Prix,STR,Aston Martin,HARD,2,26
+Emilia Romagna Grand Prix,STR,Aston Martin,MEDIUM,1,37
+Emilia Romagna Grand Prix,TSU,RB,HARD,2,50
+Emilia Romagna Grand Prix,TSU,RB,MEDIUM,1,12
+Emilia Romagna Grand Prix,VER,Red Bull Racing,HARD,2,39
+Emilia Romagna Grand Prix,VER,Red Bull Racing,MEDIUM,1,24
+Emilia Romagna Grand Prix,ZHO,Kick Sauber,HARD,1,33
+Emilia Romagna Grand Prix,ZHO,Kick Sauber,MEDIUM,2,29
+Hungarian Grand Prix,ALB,Williams,HARD,2,23
+Hungarian Grand Prix,ALB,Williams,HARD,3,40
+Hungarian Grand Prix,ALB,Williams,SOFT,1,6
+Hungarian Grand Prix,ALO,Aston Martin,HARD,3,33
+Hungarian Grand Prix,ALO,Aston Martin,MEDIUM,2,30
+Hungarian Grand Prix,ALO,Aston Martin,SOFT,1,7
+Hungarian Grand Prix,BOT,Kick Sauber,HARD,2,29
+Hungarian Grand Prix,BOT,Kick Sauber,HARD,3,24
+Hungarian Grand Prix,BOT,Kick Sauber,MEDIUM,1,16
+Hungarian Grand Prix,GAS,Alpine,HARD,1,28
+Hungarian Grand Prix,GAS,Alpine,MEDIUM,2,5
+Hungarian Grand Prix,HAM,Mercedes,HARD,2,24
+Hungarian Grand Prix,HAM,Mercedes,HARD,3,30
+Hungarian Grand Prix,HAM,Mercedes,MEDIUM,1,16
+Hungarian Grand Prix,HUL,Haas F1 Team,HARD,2,27
+Hungarian Grand Prix,HUL,Haas F1 Team,HARD,3,40
+Hungarian Grand Prix,HUL,Haas F1 Team,MEDIUM,1,2
+Hungarian Grand Prix,LEC,Ferrari,HARD,2,17
+Hungarian Grand Prix,LEC,Ferrari,MEDIUM,1,23
+Hungarian Grand Prix,LEC,Ferrari,MEDIUM,3,30
+Hungarian Grand Prix,MAG,Haas F1 Team,HARD,2,28
+Hungarian Grand Prix,MAG,Haas F1 Team,HARD,3,35
+Hungarian Grand Prix,MAG,Haas F1 Team,SOFT,1,6
+Hungarian Grand Prix,NOR,McLaren,HARD,2,28
+Hungarian Grand Prix,NOR,McLaren,MEDIUM,1,17
+Hungarian Grand Prix,NOR,McLaren,MEDIUM,3,25
+Hungarian Grand Prix,OCO,Alpine,HARD,2,24
+Hungarian Grand Prix,OCO,Alpine,HARD,3,34
+Hungarian Grand Prix,OCO,Alpine,MEDIUM,1,6
+Hungarian Grand Prix,OCO,Alpine,SOFT,4,5
+Hungarian Grand Prix,PER,Red Bull Racing,HARD,1,28
+Hungarian Grand Prix,PER,Red Bull Racing,MEDIUM,2,19
+Hungarian Grand Prix,PER,Red Bull Racing,MEDIUM,3,23
+Hungarian Grand Prix,PIA,McLaren,HARD,2,29
+Hungarian Grand Prix,PIA,McLaren,MEDIUM,1,18
+Hungarian Grand Prix,PIA,McLaren,MEDIUM,3,23
+Hungarian Grand Prix,RIC,RB,HARD,2,21
+Hungarian Grand Prix,RIC,RB,HARD,3,41
+Hungarian Grand Prix,RIC,RB,MEDIUM,1,7
+Hungarian Grand Prix,RUS,Mercedes,HARD,1,33
+Hungarian Grand Prix,RUS,Mercedes,HARD,3,17
+Hungarian Grand Prix,RUS,Mercedes,MEDIUM,2,20
+Hungarian Grand Prix,SAI,Ferrari,HARD,2,26
+Hungarian Grand Prix,SAI,Ferrari,MEDIUM,1,21
+Hungarian Grand Prix,SAI,Ferrari,MEDIUM,3,23
+Hungarian Grand Prix,SAR,Williams,HARD,2,25
+Hungarian Grand Prix,SAR,Williams,HARD,3,30
+Hungarian Grand Prix,SAR,Williams,MEDIUM,1,8
+Hungarian Grand Prix,SAR,Williams,SOFT,4,6
+Hungarian Grand Prix,STR,Aston Martin,HARD,3,25
+Hungarian Grand Prix,STR,Aston Martin,MEDIUM,2,31
+Hungarian Grand Prix,STR,Aston Martin,SOFT,1,14
+Hungarian Grand Prix,TSU,RB,HARD,2,41
+Hungarian Grand Prix,TSU,RB,MEDIUM,1,29
+Hungarian Grand Prix,VER,Red Bull Racing,HARD,2,28
+Hungarian Grand Prix,VER,Red Bull Racing,MEDIUM,1,21
+Hungarian Grand Prix,VER,Red Bull Racing,MEDIUM,3,21
+Hungarian Grand Prix,ZHO,Kick Sauber,HARD,2,29
+Hungarian Grand Prix,ZHO,Kick Sauber,HARD,3,33
+Hungarian Grand Prix,ZHO,Kick Sauber,MEDIUM,1,7
+Japanese Grand Prix,ALB,Williams,SOFT,1,1
+Japanese Grand Prix,ALO,Aston Martin,HARD,4,20
+Japanese Grand Prix,ALO,Aston Martin,MEDIUM,3,20
+Japanese Grand Prix,ALO,Aston Martin,SOFT,1,1
+Japanese Grand Prix,ALO,Aston Martin,SOFT,2,12
+Japanese Grand Prix,BOT,Kick Sauber,HARD,3,16
+Japanese Grand Prix,BOT,Kick Sauber,HARD,4,30
+Japanese Grand Prix,BOT,Kick Sauber,SOFT,1,1
+Japanese Grand Prix,BOT,Kick Sauber,SOFT,2,5
+Japanese Grand Prix,GAS,Alpine,HARD,2,15
+Japanese Grand Prix,GAS,Alpine,HARD,4,20
+Japanese Grand Prix,GAS,Alpine,MEDIUM,3,16
+Japanese Grand Prix,GAS,Alpine,SOFT,1,1
+Japanese Grand Prix,HAM,Mercedes,HARD,2,22
+Japanese Grand Prix,HAM,Mercedes,HARD,3,16
+Japanese Grand Prix,HAM,Mercedes,MEDIUM,1,1
+Japanese Grand Prix,HAM,Mercedes,MEDIUM,4,14
+Japanese Grand Prix,HUL,Haas F1 Team,HARD,3,28
+Japanese Grand Prix,HUL,Haas F1 Team,HARD,4,19
+Japanese Grand Prix,HUL,Haas F1 Team,SOFT,1,1
+Japanese Grand Prix,HUL,Haas F1 Team,SOFT,2,4
+Japanese Grand Prix,LEC,Ferrari,HARD,3,27
+Japanese Grand Prix,LEC,Ferrari,MEDIUM,1,1
+Japanese Grand Prix,LEC,Ferrari,MEDIUM,2,25
+Japanese Grand Prix,MAG,Haas F1 Team,HARD,3,30
+Japanese Grand Prix,MAG,Haas F1 Team,MEDIUM,1,1
+Japanese Grand Prix,MAG,Haas F1 Team,MEDIUM,2,21
+Japanese Grand Prix,NOR,McLaren,HARD,3,15
+Japanese Grand Prix,NOR,McLaren,HARD,4,27
+Japanese Grand Prix,NOR,McLaren,MEDIUM,1,1
+Japanese Grand Prix,NOR,McLaren,MEDIUM,2,10
+Japanese Grand Prix,OCO,Alpine,HARD,2,18
+Japanese Grand Prix,OCO,Alpine,HARD,3,14
+Japanese Grand Prix,OCO,Alpine,MEDIUM,4,19
+Japanese Grand Prix,OCO,Alpine,SOFT,1,1
+Japanese Grand Prix,PER,Red Bull Racing,HARD,4,20
+Japanese Grand Prix,PER,Red Bull Racing,MEDIUM,1,1
+Japanese Grand Prix,PER,Red Bull Racing,MEDIUM,2,14
+Japanese Grand Prix,PER,Red Bull Racing,MEDIUM,3,18
+Japanese Grand Prix,PIA,McLaren,HARD,3,20
+Japanese Grand Prix,PIA,McLaren,HARD,4,21
+Japanese Grand Prix,PIA,McLaren,MEDIUM,1,1
+Japanese Grand Prix,PIA,McLaren,MEDIUM,2,11
+Japanese Grand Prix,RIC,RB,MEDIUM,1,1
+Japanese Grand Prix,RUS,Mercedes,HARD,2,21
+Japanese Grand Prix,RUS,Mercedes,HARD,3,15
+Japanese Grand Prix,RUS,Mercedes,MEDIUM,1,1
+Japanese Grand Prix,RUS,Mercedes,MEDIUM,4,16
+Japanese Grand Prix,SAI,Ferrari,HARD,4,17
+Japanese Grand Prix,SAI,Ferrari,MEDIUM,1,1
+Japanese Grand Prix,SAI,Ferrari,MEDIUM,2,14
+Japanese Grand Prix,SAI,Ferrari,MEDIUM,3,21
+Japanese Grand Prix,SAR,Williams,HARD,2,21
+Japanese Grand Prix,SAR,Williams,HARD,3,12
+Japanese Grand Prix,SAR,Williams,MEDIUM,4,7
+Japanese Grand Prix,SAR,Williams,SOFT,1,1
+Japanese Grand Prix,SAR,Williams,SOFT,5,11
+Japanese Grand Prix,STR,Aston Martin,HARD,4,12
+Japanese Grand Prix,STR,Aston Martin,MEDIUM,3,10
+Japanese Grand Prix,STR,Aston Martin,SOFT,1,1
+Japanese Grand Prix,STR,Aston Martin,SOFT,2,11
+Japanese Grand Prix,STR,Aston Martin,SOFT,5,18
+Japanese Grand Prix,TSU,RB,HARD,3,15
+Japanese Grand Prix,TSU,RB,HARD,4,30
+Japanese Grand Prix,TSU,RB,MEDIUM,1,1
+Japanese Grand Prix,TSU,RB,SOFT,2,6
+Japanese Grand Prix,VER,Red Bull Racing,HARD,4,19
+Japanese Grand Prix,VER,Red Bull Racing,MEDIUM,1,1
+Japanese Grand Prix,VER,Red Bull Racing,MEDIUM,2,15
+Japanese Grand Prix,VER,Red Bull Racing,MEDIUM,3,18
+Japanese Grand Prix,ZHO,Kick Sauber,HARD,3,4
+Japanese Grand Prix,ZHO,Kick Sauber,HARD,4,1
+Japanese Grand Prix,ZHO,Kick Sauber,MEDIUM,1,1
+Japanese Grand Prix,ZHO,Kick Sauber,SOFT,2,6
+Miami Grand Prix,ALB,Williams,HARD,2,43
+Miami Grand Prix,ALB,Williams,MEDIUM,1,10
+Miami Grand Prix,ALB,Williams,SOFT,3,4
+Miami Grand Prix,ALO,Aston Martin,HARD,1,22
+Miami Grand Prix,ALO,Aston Martin,MEDIUM,2,35
+Miami Grand Prix,BOT,Kick Sauber,HARD,2,18
+Miami Grand Prix,BOT,Kick Sauber,MEDIUM,3,28
+Miami Grand Prix,BOT,Kick Sauber,SOFT,1,11
+Miami Grand Prix,GAS,Alpine,HARD,2,45
+Miami Grand Prix,GAS,Alpine,MEDIUM,1,12
+Miami Grand Prix,HAM,Mercedes,HARD,1,26
+Miami Grand Prix,HAM,Mercedes,MEDIUM,2,31
+Miami Grand Prix,HUL,Haas F1 Team,HARD,2,16
+Miami Grand Prix,HUL,Haas F1 Team,MEDIUM,1,12
+Miami Grand Prix,HUL,Haas F1 Team,MEDIUM,3,29
+Miami Grand Prix,LEC,Ferrari,HARD,2,38
+Miami Grand Prix,LEC,Ferrari,MEDIUM,1,19
+Miami Grand Prix,MAG,Haas F1 Team,HARD,1,22
+Miami Grand Prix,MAG,Haas F1 Team,MEDIUM,2,6
+Miami Grand Prix,MAG,Haas F1 Team,MEDIUM,3,3
+Miami Grand Prix,MAG,Haas F1 Team,MEDIUM,4,26
+Miami Grand Prix,NOR,McLaren,HARD,2,28
+Miami Grand Prix,NOR,McLaren,MEDIUM,1,29
+Miami Grand Prix,OCO,Alpine,HARD,2,35
+Miami Grand Prix,OCO,Alpine,MEDIUM,1,22
+Miami Grand Prix,PER,Red Bull Racing,HARD,2,11
+Miami Grand Prix,PER,Red Bull Racing,MEDIUM,1,17
+Miami Grand Prix,PER,Red Bull Racing,MEDIUM,3,29
+Miami Grand Prix,PIA,McLaren,HARD,2,13
+Miami Grand Prix,PIA,McLaren,MEDIUM,1,27
+Miami Grand Prix,PIA,McLaren,MEDIUM,3,17
+Miami Grand Prix,RIC,RB,HARD,1,28
+Miami Grand Prix,RIC,RB,MEDIUM,2,29
+Miami Grand Prix,RUS,Mercedes,HARD,2,33
+Miami Grand Prix,RUS,Mercedes,MEDIUM,1,24
+Miami Grand Prix,SAI,Ferrari,HARD,2,30
+Miami Grand Prix,SAI,Ferrari,MEDIUM,1,27
+Miami Grand Prix,SAR,Williams,HARD,2,17
+Miami Grand Prix,SAR,Williams,MEDIUM,1,11
+Miami Grand Prix,STR,Aston Martin,HARD,2,17
+Miami Grand Prix,STR,Aston Martin,MEDIUM,1,11
+Miami Grand Prix,STR,Aston Martin,MEDIUM,3,29
+Miami Grand Prix,TSU,RB,HARD,2,29
+Miami Grand Prix,TSU,RB,MEDIUM,1,28
+Miami Grand Prix,VER,Red Bull Racing,HARD,2,34
+Miami Grand Prix,VER,Red Bull Racing,MEDIUM,1,23
+Miami Grand Prix,ZHO,Kick Sauber,MEDIUM,1,28
+Miami Grand Prix,ZHO,Kick Sauber,SOFT,2,29
+Monaco Grand Prix,ALB,Williams,HARD,2,76
+Monaco Grand Prix,ALB,Williams,MEDIUM,1,1
+Monaco Grand Prix,ALO,Aston Martin,HARD,1,1
+Monaco Grand Prix,ALO,Aston Martin,MEDIUM,2,75
+Monaco Grand Prix,BOT,Kick Sauber,HARD,1,1
+Monaco Grand Prix,BOT,Kick Sauber,HARD,3,61
+Monaco Grand Prix,BOT,Kick Sauber,MEDIUM,2,14
+Monaco Grand Prix,GAS,Alpine,HARD,1,1
+Monaco Grand Prix,GAS,Alpine,MEDIUM,2,76
+Monaco Grand Prix,HAM,Mercedes,HARD,1,1
+Monaco Grand Prix,HAM,Mercedes,HARD,3,27
+Monaco Grand Prix,HAM,Mercedes,MEDIUM,2,50
+Monaco Grand Prix,HUL,Haas F1 Team,MEDIUM,1,1
+Monaco Grand Prix,LEC,Ferrari,HARD,2,77
+Monaco Grand Prix,LEC,Ferrari,MEDIUM,1,1
+Monaco Grand Prix,MAG,Haas F1 Team,HARD,1,1
+Monaco Grand Prix,NOR,McLaren,HARD,2,77
+Monaco Grand Prix,NOR,McLaren,MEDIUM,1,1
+Monaco Grand Prix,OCO,Alpine,HARD,1,1
+Monaco Grand Prix,PER,Red Bull Racing,HARD,1,1
+Monaco Grand Prix,PIA,McLaren,HARD,2,77
+Monaco Grand Prix,PIA,McLaren,MEDIUM,1,1
+Monaco Grand Prix,RIC,RB,HARD,2,75
+Monaco Grand Prix,RIC,RB,MEDIUM,1,1
+Monaco Grand Prix,RUS,Mercedes,HARD,1,1
+Monaco Grand Prix,RUS,Mercedes,MEDIUM,2,77
+Monaco Grand Prix,SAI,Ferrari,HARD,2,77
+Monaco Grand Prix,SAI,Ferrari,MEDIUM,1,1
+Monaco Grand Prix,SAR,Williams,HARD,1,1
+Monaco Grand Prix,SAR,Williams,HARD,2,56
+Monaco Grand Prix,SAR,Williams,MEDIUM,3,19
+Monaco Grand Prix,STR,Aston Martin,HARD,1,1
+Monaco Grand Prix,STR,Aston Martin,HARD,3,6
+Monaco Grand Prix,STR,Aston Martin,MEDIUM,2,41
+Monaco Grand Prix,STR,Aston Martin,SOFT,4,28
+Monaco Grand Prix,TSU,RB,HARD,2,76
+Monaco Grand Prix,TSU,RB,MEDIUM,1,1
+Monaco Grand Prix,VER,Red Bull Racing,HARD,1,1
+Monaco Grand Prix,VER,Red Bull Racing,HARD,3,26
+Monaco Grand Prix,VER,Red Bull Racing,MEDIUM,2,51
+Monaco Grand Prix,ZHO,Kick Sauber,HARD,2,69
+Monaco Grand Prix,ZHO,Kick Sauber,MEDIUM,1,1
+Monaco Grand Prix,ZHO,Kick Sauber,SOFT,3,6
+Saudi Arabian Grand Prix,ALB,Williams,HARD,2,43
+Saudi Arabian Grand Prix,ALB,Williams,MEDIUM,1,7
+Saudi Arabian Grand Prix,ALO,Aston Martin,HARD,2,43
+Saudi Arabian Grand Prix,ALO,Aston Martin,MEDIUM,1,7
+Saudi Arabian Grand Prix,BEA,Ferrari,HARD,2,43
+Saudi Arabian Grand Prix,BEA,Ferrari,SOFT,1,7
+Saudi Arabian Grand Prix,BOT,Kick Sauber,HARD,2,28
+Saudi Arabian Grand Prix,BOT,Kick Sauber,SOFT,1,7
+Saudi Arabian Grand Prix,BOT,Kick Sauber,SOFT,3,14
+Saudi Arabian Grand Prix,GAS,Alpine,MEDIUM,1,1
+Saudi Arabian Grand Prix,HAM,Mercedes,MEDIUM,1,36
+Saudi Arabian Grand Prix,HAM,Mercedes,SOFT,2,14
+Saudi Arabian Grand Prix,HUL,Haas F1 Team,HARD,2,17
+Saudi Arabian Grand Prix,HUL,Haas F1 Team,MEDIUM,1,33
+Saudi Arabian Grand Prix,LEC,Ferrari,HARD,2,43
+Saudi Arabian Grand Prix,LEC,Ferrari,MEDIUM,1,7
+Saudi Arabian Grand Prix,MAG,Haas F1 Team,HARD,2,43
+Saudi Arabian Grand Prix,MAG,Haas F1 Team,MEDIUM,1,7
+Saudi Arabian Grand Prix,NOR,McLaren,MEDIUM,1,37
+Saudi Arabian Grand Prix,NOR,McLaren,SOFT,2,13
+Saudi Arabian Grand Prix,OCO,Alpine,HARD,2,42
+Saudi Arabian Grand Prix,OCO,Alpine,MEDIUM,1,7
+Saudi Arabian Grand Prix,PER,Red Bull Racing,HARD,2,43
+Saudi Arabian Grand Prix,PER,Red Bull Racing,MEDIUM,1,7
+Saudi Arabian Grand Prix,PIA,McLaren,HARD,2,43
+Saudi Arabian Grand Prix,PIA,McLaren,MEDIUM,1,7
+Saudi Arabian Grand Prix,RIC,RB,HARD,2,42
+Saudi Arabian Grand Prix,RIC,RB,MEDIUM,1,7
+Saudi Arabian Grand Prix,RUS,Mercedes,HARD,2,43
+Saudi Arabian Grand Prix,RUS,Mercedes,MEDIUM,1,7
+Saudi Arabian Grand Prix,SAR,Williams,HARD,2,42
+Saudi Arabian Grand Prix,SAR,Williams,MEDIUM,1,7
+Saudi Arabian Grand Prix,STR,Aston Martin,MEDIUM,1,6
+Saudi Arabian Grand Prix,TSU,RB,HARD,2,42
+Saudi Arabian Grand Prix,TSU,RB,MEDIUM,1,7
+Saudi Arabian Grand Prix,VER,Red Bull Racing,HARD,2,43
+Saudi Arabian Grand Prix,VER,Red Bull Racing,MEDIUM,1,7
+Saudi Arabian Grand Prix,ZHO,Kick Sauber,MEDIUM,1,41
+Saudi Arabian Grand Prix,ZHO,Kick Sauber,SOFT,2,8
+Spanish Grand Prix,ALB,Williams,MEDIUM,1,18
+Spanish Grand Prix,ALB,Williams,SOFT,2,25
+Spanish Grand Prix,ALB,Williams,SOFT,3,22
+Spanish Grand Prix,ALO,Aston Martin,HARD,3,20
+Spanish Grand Prix,ALO,Aston Martin,MEDIUM,2,26
+Spanish Grand Prix,ALO,Aston Martin,SOFT,1,19
+Spanish Grand Prix,BOT,Kick Sauber,HARD,3,37
+Spanish Grand Prix,BOT,Kick Sauber,SOFT,1,11
+Spanish Grand Prix,BOT,Kick Sauber,SOFT,2,17
+Spanish Grand Prix,GAS,Alpine,HARD,3,28
+Spanish Grand Prix,GAS,Alpine,MEDIUM,2,24
+Spanish Grand Prix,GAS,Alpine,SOFT,1,14
+Spanish Grand Prix,HAM,Mercedes,MEDIUM,2,27
+Spanish Grand Prix,HAM,Mercedes,SOFT,1,16
+Spanish Grand Prix,HAM,Mercedes,SOFT,3,23
+Spanish Grand Prix,HUL,Haas F1 Team,HARD,3,28
+Spanish Grand Prix,HUL,Haas F1 Team,MEDIUM,2,26
+Spanish Grand Prix,HUL,Haas F1 Team,SOFT,1,12
+Spanish Grand Prix,LEC,Ferrari,MEDIUM,2,23
+Spanish Grand Prix,LEC,Ferrari,SOFT,1,24
+Spanish Grand Prix,LEC,Ferrari,SOFT,3,19
+Spanish Grand Prix,MAG,Haas F1 Team,HARD,3,36
+Spanish Grand Prix,MAG,Haas F1 Team,MEDIUM,2,19
+Spanish Grand Prix,MAG,Haas F1 Team,SOFT,1,10
+Spanish Grand Prix,NOR,McLaren,MEDIUM,2,24
+Spanish Grand Prix,NOR,McLaren,SOFT,1,23
+Spanish Grand Prix,NOR,McLaren,SOFT,3,19
+Spanish Grand Prix,OCO,Alpine,HARD,3,29
+Spanish Grand Prix,OCO,Alpine,MEDIUM,2,24
+Spanish Grand Prix,OCO,Alpine,SOFT,1,13
+Spanish Grand Prix,PER,Red Bull Racing,MEDIUM,3,18
+Spanish Grand Prix,PER,Red Bull Racing,SOFT,1,13
+Spanish Grand Prix,PER,Red Bull Racing,SOFT,2,18
+Spanish Grand Prix,PER,Red Bull Racing,SOFT,4,17
+Spanish Grand Prix,PIA,McLaren,MEDIUM,2,25
+Spanish Grand Prix,PIA,McLaren,SOFT,1,21
+Spanish Grand Prix,PIA,McLaren,SOFT,3,20
+Spanish Grand Prix,RIC,RB,HARD,3,23
+Spanish Grand Prix,RIC,RB,MEDIUM,2,26
+Spanish Grand Prix,RIC,RB,SOFT,1,16
+Spanish Grand Prix,RUS,Mercedes,HARD,3,30
+Spanish Grand Prix,RUS,Mercedes,MEDIUM,2,21
+Spanish Grand Prix,RUS,Mercedes,SOFT,1,15
+Spanish Grand Prix,SAI,Ferrari,HARD,3,30
+Spanish Grand Prix,SAI,Ferrari,MEDIUM,2,21
+Spanish Grand Prix,SAI,Ferrari,SOFT,1,15
+Spanish Grand Prix,SAR,Williams,HARD,3,30
+Spanish Grand Prix,SAR,Williams,MEDIUM,2,20
+Spanish Grand Prix,SAR,Williams,SOFT,1,14
+Spanish Grand Prix,STR,Aston Martin,HARD,3,28
+Spanish Grand Prix,STR,Aston Martin,MEDIUM,2,20
+Spanish Grand Prix,STR,Aston Martin,SOFT,1,17
+Spanish Grand Prix,TSU,RB,HARD,3,17
+Spanish Grand Prix,TSU,RB,MEDIUM,2,18
+Spanish Grand Prix,TSU,RB,SOFT,1,9
+Spanish Grand Prix,TSU,RB,SOFT,4,21
+Spanish Grand Prix,VER,Red Bull Racing,MEDIUM,2,27
+Spanish Grand Prix,VER,Red Bull Racing,SOFT,1,17
+Spanish Grand Prix,VER,Red Bull Racing,SOFT,3,22
+Spanish Grand Prix,ZHO,Kick Sauber,HARD,3,24
+Spanish Grand Prix,ZHO,Kick Sauber,MEDIUM,2,32
+Spanish Grand Prix,ZHO,Kick Sauber,SOFT,1,9

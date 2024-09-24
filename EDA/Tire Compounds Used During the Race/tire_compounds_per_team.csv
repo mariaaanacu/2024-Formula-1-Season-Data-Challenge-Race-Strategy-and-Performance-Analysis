@@ -1,0 +1,42 @@
+Team,Compound,CompoundCount
+Alpine,HARD,855
+Alpine,INTERMEDIATE,98
+Alpine,MEDIUM,556
+Alpine,SOFT,96
+Aston Martin,HARD,755
+Aston Martin,INTERMEDIATE,112
+Aston Martin,MEDIUM,718
+Aston Martin,SOFT,193
+Ferrari,HARD,965
+Ferrari,INTERMEDIATE,112
+Ferrari,MEDIUM,604
+Ferrari,SOFT,106
+Haas F1 Team,HARD,952
+Haas F1 Team,INTERMEDIATE,89
+Haas F1 Team,MEDIUM,520
+Haas F1 Team,SOFT,88
+Haas F1 Team,WET,19
+Kick Sauber,HARD,913
+Kick Sauber,INTERMEDIATE,115
+Kick Sauber,MEDIUM,423
+Kick Sauber,SOFT,240
+McLaren,HARD,906
+McLaren,INTERMEDIATE,113
+McLaren,MEDIUM,674
+McLaren,SOFT,134
+Mercedes,HARD,826
+Mercedes,INTERMEDIATE,105
+Mercedes,MEDIUM,655
+Mercedes,SOFT,186
+RB,HARD,993
+RB,INTERMEDIATE,109
+RB,MEDIUM,447
+RB,SOFT,163
+Red Bull Racing,HARD,722
+Red Bull Racing,INTERMEDIATE,118
+Red Bull Racing,MEDIUM,674
+Red Bull Racing,SOFT,169
+Williams,HARD,897
+Williams,INTERMEDIATE,90
+Williams,MEDIUM,457
+Williams,SOFT,156
